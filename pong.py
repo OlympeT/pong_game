@@ -3,7 +3,7 @@ import time
 
 # Screen setup
 wn = turtle.Screen()  # Create the game window
-wn.title("Pong by Gemini")  # Set the window title
+wn.title("Pong by Olympe Tchibozo")  # Set the window title
 wn.bgcolor("black")  # Set the background color to black
 wn.setup(width=800, height=600)  # Set the window size
 wn.tracer(0)  # Turns off automatic screen updates
